@@ -30,8 +30,9 @@ Bachelor of Technology in Computer Science (Expected 2026)
 Trident Technical College  
 Associate Degree in Network Systems Management
 
-Programming Projects
---------------------
+## Programming Projects
+
+Projects will be added here as they are completed. 
 
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
