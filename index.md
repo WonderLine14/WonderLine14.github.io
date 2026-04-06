@@ -1,5 +1,34 @@
-Portfolio
-=========
+# Kimberly Line
+
+## Computer Science Student
+
+Kimberly Line is a Computer Science student at Charleston Southern University with a background in business development, client management, and regulated IT environments. She is currently building technical skills in programming, networking, and cybersecurity while pursuing opportunities in technology-focused roles.
+
+---
+
+## About Me
+
+I am currently pursuing a Bachelor of Technology in Computer Science at Charleston Southern University. My background includes professional experience in account management and operations, and I am now focused on strengthening my technical skills through coursework and hands-on projects. My studies have included programming, scripting languages, networking, and cybersecurity.
+
+---
+
+## Technical Skills
+
+**Programming:** Python, C++, Bash  
+**Systems:** Linux, Ubuntu, Virtual Machines  
+**Networking:** TCP/IP, LAN/WAN fundamentals  
+**Tools:** GitHub, VS Code  
+**Databases:** MySQL (basic)
+
+---
+
+## Education
+
+Charleston Southern University  
+Bachelor of Technology in Computer Science (Expected 2026)
+
+Trident Technical College  
+Associate Degree in Network Systems Management
 
 Programming Projects
 --------------------
