@@ -2,7 +2,7 @@
 
 ## Computer Science Student
 
-Kimberly Line is a Computer Science student at Charleston Southern University with a background in business development, client management, and regulated IT environments. She is currently building technical skills in programming, networking, and cybersecurity while pursuing opportunities in technology-focused roles.
+Kimberly Line is a Computer Science student at Charleston Southern University.
 
 ---
 
