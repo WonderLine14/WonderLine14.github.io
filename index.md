@@ -57,7 +57,7 @@ Developed in C++, this program asks what weekday January 1 was and today's day o
 
 Developed in C++, this program removes all the vowels from a string and converts the remaining consonants to uppercase.
 
-<img src="images/vowel.png" width="400">
+<img src="images/VowelRemover.png" width="400">
 
 [View Project Repository](https://github.com/WonderLine14/vowelremover-cpp)
 
