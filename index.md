@@ -43,11 +43,14 @@ Developed in C++, this program loads a menu from a file that lets customers choo
 
 [View Project Repository](https://github.com/WonderLine14/restaurant-cpp)
 
-
 ---
-### [Project 2 Title | CSCI 315](project1)
+### Project 2 - Weekday Program (C++)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+<img src="images/Weekday.png" width="400">
+
+Developed in C++, this program asks what weekday January 1 was and today's day of year, then figures out today's weekday, prints it in English and German, shows the week position, and displays how many days until Saturday and until next Monday.
+
+[View Project Repository](https://github.com/WonderLine14/weekday-cpp)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
