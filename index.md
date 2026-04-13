@@ -69,6 +69,7 @@ Developed in Python, this program creates a RightTriangle class that uses two si
 <img src="images/Lab06.png" width="400">
 
 [View Project Repository](https://github.com/WonderLine14/Lab06)
+
 ---
 
 -------------
