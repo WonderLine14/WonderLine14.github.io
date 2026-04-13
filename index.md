@@ -32,14 +32,13 @@ Associate Degree in Network Systems Management
 
 ## Programming Projects
 
-Projects will be added here as they are completed. 
-
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### ### Restaurant Program (C++)
+Developed in C++, this program loads a menu from a file that lets customers choose the items and quantities they want. Then prints a formatted receipt that includes prices, totals, and sales tax.
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+[View Project Repository](https://github.com/WonderLine14/restaurant-cpp)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
