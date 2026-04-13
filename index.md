@@ -46,9 +46,9 @@ Developed in C++, this program loads a menu from a file that lets customers choo
 ---
 ### Project 2 - Weekday Program (C++)
 
-<img src="images/Weekday.png" width="400">
-
 Developed in C++, this program asks what weekday January 1 was and today's day of year, then figures out today's weekday, prints it in English and German, shows the week position, and displays how many days until Saturday and until next Monday.
+
+<img src="images/Weekday.png" width="400">
 
 [View Project Repository](https://github.com/WonderLine14/weekday-cpp)
 
