@@ -36,6 +36,9 @@ Associate Degree in Network Systems Management
 
 ---
 ### ### Restaurant Program (C++)
+
+![Restaurant Program](images/Restaurant.png)
+
 Developed in C++, this program loads a menu from a file that lets customers choose the items and quantities they want. Then prints a formatted receipt that includes prices, totals, and sales tax.
 
 [View Project Repository](https://github.com/WonderLine14/restaurant-cpp)
