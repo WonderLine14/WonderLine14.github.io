@@ -71,7 +71,6 @@ Developed in Python, this program creates a RightTriangle class that uses two si
 [View Project Repository](https://github.com/WonderLine14/Lab06)
 ---
 
-Ethics Papers
 -------------
 
 # Ethics Papers
