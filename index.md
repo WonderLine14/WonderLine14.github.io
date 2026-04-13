@@ -53,9 +53,13 @@ Developed in C++, this program asks what weekday January 1 was and today's day o
 [View Project Repository](https://github.com/WonderLine14/weekday-cpp)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### Project 3 - Vowel Remover Program (C++)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+Developed in C++, this program removes all the vowels from a string and converts the remaining consonants to uppercase.
+
+<img src="images/vowel.png" width="400">
+
+[View Project Repository](https://github.com/WonderLine14/vowelremover-cpp)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
