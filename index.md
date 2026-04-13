@@ -62,10 +62,13 @@ Developed in C++, this program removes all the vowels from a string and converts
 [View Project Repository](https://github.com/WonderLine14/vowelremover-cpp)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### Lab06 – RightTriangle (Python)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+Developed in Python, this program creates a RightTriangle class that uses two sides to calculate the hypotenuse and surface area. It includes constructors, getters and setters, and test code to demonstrate functionality.
 
+![Lab06](images/Lab06.png)
+
+[View Project Repository](https://github.com/WonderLine14/Lab06)
 ---
 
 Ethics Papers
