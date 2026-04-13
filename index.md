@@ -74,24 +74,41 @@ Developed in Python, this program creates a RightTriangle class that uses two si
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+# Ethics Papers
 
--   **Class:**  
--   **Grade:**
+### Artificial Intelligence, Ethics, and the Future of Computer Science
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+This paper examines ethical concerns in artificial intelligence using the Penn State ethical decision model, along with ACM and IEEE codes, focusing on issues such as bias, privacy, and accountability.
 
--   **Class:** 
--   **Grade:**
+- **Class:** CSCI 301 – Survey of Scripting Languages  
+- **Grade:** 100
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+[View Paper](ai-ethics.pdf)
 
 ---
 
-Presentations
+### Ethics and the Internet
+
+This paper explores how the growth of the internet and artificial intelligence has impacted privacy, manipulation, and data ethics, while applying a Christian worldview and professional responsibility.
+
+- **Class:** CSCI 235 Procedural Programming
+- **Grade:** 
+
+[View Paper](internet-ethics.pdf)
+
+---
+
+### Ethical Challenges in Autonomous Vehicles
+
+This paper explores the ethical issues surrounding autonomous vehicles, including decision-making, safety, and responsibility, and how these technologies impact society.
+
+-   **Class:** CSCI 332: APPLIED NETWORKING
+-   **Grade:** 100
+
+[View Paper](autonomous-vehicles-ethics.pdf)
+
+
 -------------
 
 ### [Presentation 1 Title](/pdf/sample_presentation.pdf)
