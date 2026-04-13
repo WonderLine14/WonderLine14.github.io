@@ -66,7 +66,7 @@ Developed in C++, this program removes all the vowels from a string and converts
 
 Developed in Python, this program creates a RightTriangle class that uses two sides to calculate the hypotenuse and surface area. It includes constructors, getters and setters, and test code to demonstrate functionality.
 
-![Lab06](images/Lab06.png)
+<img src="images/Lab06.png" width="400">
 
 [View Project Repository](https://github.com/WonderLine14/Lab06)
 ---
