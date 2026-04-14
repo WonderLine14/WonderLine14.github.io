@@ -11,7 +11,9 @@ description: >
   <a href="https://github.com/WonderLine14">View My GitHub Profile</a>
   <br /><br />
   <a href="https://www.linkedin.com/in/kimberly-line/">View My LinkedIn Profile</a>
+  <br /><br />
   <a href="mailto:KMLine@student.csuniv.edu">Email Me</a>
 
-# Build settings
+github_username: WonderLine14
+
 theme: jekyll-theme-minimal
