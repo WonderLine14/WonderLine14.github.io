@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vowel Remover Program</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <main style="max-width: 900px; margin: 0 auto; padding: 30px;">
+    <h1>Vowel Remover</h1>
 
+    <p><strong>Course:</strong> CSCI 235</p>>
+    <p><strong>Language(s):</strong> C++</p>
+    <p><strong>GitHub Repository:</strong> 
+      <a href="https://github.com/WonderLine14/vowelremover-cpp">Private Repository</a>
+    </p>
+
+    <h2>Project Description</h2>
+    <p>
+      This project is a C++ program. The VowelRemover program will remove all the vowels from the string 
+      and makes them consonants uppercase.
+    </p>
+
+    <h2>How to Compile and Run</h2>
+    <pre>
+g++ -Wextra -std=c++17 -o VowelRemover VowelRemover.cpp
+./VowelRemover
+    </pre>
+
+    <h2>How the Program Works</h2>
+    <p>
+      The program prompts the user to enter a word or sentence. It then processes the input one character at 
+      a time using a loop. For each character, the program checks whether it is a vowel (a, e, i, o, u). 
+      If the character is not a vowel, it is kept and added to a new string. If it is a vowel, it is skipped. 
+      After all characters have been checked, the program outputs the updated string with all vowels removed.
+    </p>
+
+    <h2>Screenshots</h2>
+    <p><strong>Fig. 1.</strong> Example of the Vowel Remover Input.</p>
+    <img src="images/VowelRemover1.png" alt="Vowel Remover Program Screenshot"
+         style="max-width: 100%; height: auto;">
+
+    <p><strong>Fig. 1.</strong> Example of the Vowel Remover Output.</p>
+    <img src="images/VowelRemover2.png" alt="Vowel Remover Program Screenshot"
+         style="max-width: 100%; height: auto;">
+
+    <p><a href="./">Back to Portfolio</a></p>
+  </main>
+</body>
+</html>
