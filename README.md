@@ -33,7 +33,7 @@ My main interests are in data analysis and forensic analysis. I want to use tech
 - **Course:** CSCI 235 – Procedural Programming  
 - **Language(s):** HTML, CSS  
 
-This project is a restaurant website built with HTML and CSS. It includes multiple pages, page styling, and navigation between sections.
+This project is a C++ program that simulates a restaurant ordering system. It allows the user to select menu items and calculates the total    cost of the order. The project was assigned to practice functions, user input, output, and decision making in C++.
 
 [View Project](https://wonderline14.github.io/Restaurant.html)
 
