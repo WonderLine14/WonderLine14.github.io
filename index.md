@@ -110,18 +110,6 @@ This paper explores the ethical issues surrounding autonomous vehicles, includin
 
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
-
-
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
-
----
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
