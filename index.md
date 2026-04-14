@@ -8,7 +8,7 @@ Kimberly Line is a Computer Science student at Charleston Southern University.
 
 ## About Me
 
-I am currently pursuing a Bachelor of Technology in Computer Science at Charleston Southern University. My background includes professional experience in account management and operations, and I am now focused on strengthening my technical skills through coursework and hands-on projects. My studies have included programming, scripting languages, networking, and cybersecurity.
+I am currently an ITAD Solutions Specialist, Account Executive pursuing a Bachelor of Technology in Computer Science at Charleston Southern University. My background includes professional experience in account management and operations, and I am now focused on strengthening my technical skills through coursework and hands on projects. My studies have included programming, scripting languages, networking, and cybersecurity.
 
 ---
 
