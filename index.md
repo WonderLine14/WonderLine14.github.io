@@ -37,7 +37,7 @@ Associate Degree in Network Systems Management
 
 ## Programming Projects
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:KMLine@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### Project 1 - [Restaurant Program (C++)](Restaurant.html)
