@@ -40,31 +40,28 @@ Associate Degree in Network Systems Management
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### Project 1 - Restaurant Program (C++)
+### Project 1 - [Restaurant Program (C++)](Restaurant.html)
 
 Developed in C++, this program loads a menu from a file that lets customers choose the items and quantities they want. Then prints a formatted receipt that includes prices, totals, and sales tax.
 
 <img src="images/Restaurant.png" width="400">
 
-[View Project Repository](https://github.com/WonderLine14/restaurant-cpp)
 
 ---
-### Project 2 - Weekday Program (C++)
+### Project 2 - [Weekday Program (C++)](Weekday.html)
 
 Developed in C++, this program asks what weekday January 1 was and today's day of year, then figures out today's weekday, prints it in English and German, shows the week position, and displays how many days until Saturday and until next Monday.
 
 <img src="images/Weekday.png" width="400">
 
-[View Project Repository](https://github.com/WonderLine14/weekday-cpp)
 
 ---
-### Project 3 - Vowel Remover Program (C++)
+### Project 3 - [Vowel Remover Program (C++)](VowelRemover.html)
 
 Developed in C++, this program removes all the vowels from a string and converts the remaining consonants to uppercase.
 
 <img src="images/VowelRemover.png" width="400">
 
-[View Project Repository](https://github.com/WonderLine14/vowelremover-cpp)
 
 ---
 ### Lab06 – RightTriangle (Python)
@@ -73,7 +70,6 @@ Developed in Python, this program creates a RightTriangle class that uses two si
 
 <img src="images/Lab06.png" width="400">
 
-[View Project Repository](https://github.com/WonderLine14/Lab06)
 
 -------------
 
@@ -83,8 +79,8 @@ Developed in Python, this program creates a RightTriangle class that uses two si
 
 This paper examines ethical concerns in artificial intelligence using the Penn State ethical decision model, along with ACM and IEEE codes, focusing on issues such as bias, privacy, and accountability.
 
-- **Class:** CSCI 301 – Survey of Scripting Languages  
-- **Grade:** A
+**Class:** CSCI 301 – Survey of Scripting Languages  
+**Grade:** A
 
 
 [View Paper](ai-ethics.pdf)
@@ -95,8 +91,8 @@ This paper examines ethical concerns in artificial intelligence using the Penn S
 
 This paper explores how the growth of the internet and artificial intelligence has impacted privacy, manipulation, and data ethics, while applying a Christian worldview and professional responsibility.
 
-- **Class:** CSCI 235 Procedural Programming
-- **Grade:** A
+**Class:** CSCI 235 Procedural Programming
+**Grade:** A
 
 [View Paper](internet-ethics.pdf)
 
@@ -106,8 +102,8 @@ This paper explores how the growth of the internet and artificial intelligence h
 
 This paper explores the ethical issues surrounding autonomous vehicles, including decision-making, safety, and responsibility, and how these technologies impact society.
 
--   **Class:** CSCI 332: APPLIED NETWORKING
--   **Grade:** A
+**Class:** CSCI 332: APPLIED NETWORKING
+**Grade:** A
 
 [View Paper](autonomous-vehicles-ethics.pdf)
 
