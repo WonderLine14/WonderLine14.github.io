@@ -79,7 +79,7 @@ Developed in Python, this program creates a RightTriangle class that uses two si
 This paper examines ethical concerns in artificial intelligence using the Penn State ethical decision model, along with ACM and IEEE codes, focusing on issues such as bias, privacy, and accountability.
 
 - **Class:** CSCI 301 – Survey of Scripting Languages  
-- **Grade:** 100
+- **Grade:** A
 
 
 [View Paper](ai-ethics.pdf)
@@ -91,7 +91,7 @@ This paper examines ethical concerns in artificial intelligence using the Penn S
 This paper explores how the growth of the internet and artificial intelligence has impacted privacy, manipulation, and data ethics, while applying a Christian worldview and professional responsibility.
 
 - **Class:** CSCI 235 Procedural Programming
-- **Grade:** 
+- **Grade:** A
 
 [View Paper](internet-ethics.pdf)
 
@@ -102,7 +102,7 @@ This paper explores how the growth of the internet and artificial intelligence h
 This paper explores the ethical issues surrounding autonomous vehicles, including decision-making, safety, and responsibility, and how these technologies impact society.
 
 -   **Class:** CSCI 332: APPLIED NETWORKING
--   **Grade:** 100
+-   **Grade:** A
 
 [View Paper](autonomous-vehicles-ethics.pdf)
 
