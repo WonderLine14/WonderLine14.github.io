@@ -45,11 +45,7 @@ This project is a C++ program that simulates a restaurant ordering system. It al
 
 This program asks the user for the weekday of January 1 and the current day of the year. It then calculates the current weekday and displays the results.
 
-The program outputs:
-- The current weekday in English and German  
-- The week number of the year  
-- Days remaining until Saturday  
-- Days until the next Monday  
+The program outputs: The current weekday in English and German, the week number of the year, days remaining until Saturday, and days until the next Monday.
 
 [View Project](https://wonderline14.github.io/Weekday.html)
 
